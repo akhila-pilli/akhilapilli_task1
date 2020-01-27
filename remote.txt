@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\akhilapilli_task1>git remote add end git@github.com:akhila-pilli/akhilapilli_task1.git
+
+C:\Users\USER\Desktop\akhilapilli_task1>git remote
+end
+origin

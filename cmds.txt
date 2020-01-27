@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\akhilapilli_task1>git add -A
+
+C:\Users\USER\Desktop\akhilapilli_task1>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   cloning.txt
+        new file:   config command.txt
+C:\Users\USER\Desktop\akhilapilli_task1>git commit  -m "clonig,configuration"
+[master 3a2ba9a] clonig,configuration
+ 2 files changed, 48 insertions(+)
+ create mode 100644 cloning.txt
+ create mode 100644 config command.txt
